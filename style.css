@@ -13,7 +13,7 @@ body{
     align-items: center;
     flex-direction: column;
     height: 100vh;
-    background: linear-gradient(to right,  #b11387, #D62976, #962FBF, #4B4F99 );
+    background: linear-gradient(to right,  #f042c1, #f069a6, #bf50ea, #757adb );
 }
 img{
     width: 400px;
